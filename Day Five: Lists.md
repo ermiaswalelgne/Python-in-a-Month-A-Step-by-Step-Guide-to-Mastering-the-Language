@@ -86,6 +86,7 @@ Stay tuned for Day 6, where we will cover strings in Python.
 
 <br>
 <hr>
+
 # Mini Project 1: 
 Mini Project: Simple To-Do List
 
@@ -153,11 +154,13 @@ while True:
     else:
         print("Invalid choice. Please try again.")
 '''
+
 When the user runs the application, they will be prompted to enter one of four choices: "add", "remove", "view", or "exit". If they choose "add", they will be prompted to enter an item to add to the list. If they choose "remove", they will be prompted to enter an item to remove from the list. If they choose "view", the items on the list will be displayed. If they choose "exit", the application will exit.
 
 This simple to-do list application demonstrates the power of Python's built-in data structures and control structures, and provides a great starting point for anyone looking to learn more about the language.
 <br>
 <hr>
+
 # Mini Project 2: Guess the Number Game
 
 For this mini project, we will create a simple "Guess the Number" game, which will incorporate the topics we have covered from Day 1 to Day 5.
@@ -167,6 +170,7 @@ The game will generate a random number between 1 and 20, and the user will have 
 
 #### Hint use the follwing code as a start point 
 * Note import  random package and use randinit(1, 20) funcion to randomly generate number from 1 to 20
+
 ```
 import random
 
@@ -179,6 +183,7 @@ guesses_left = 3
 while guesses_left > 0:
    # TODO finish the rest of the code 
 ```
+
 Solution:
 
 Here is the solution to the Guess the Number Game, incorporating the concepts from Day 1 to Day 5.
@@ -215,5 +220,4 @@ while guesses_left > 0:
 if guesses_left ...
    #TODO complete the rest of the code
  
-
 ```
