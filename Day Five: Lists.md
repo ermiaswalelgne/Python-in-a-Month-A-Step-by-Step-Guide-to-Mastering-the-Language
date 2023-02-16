@@ -21,7 +21,7 @@ You can access individual items in a list using their index. The index of a list
 ```
 first_fruit = fruits[0]
 print(first_fruit)
-````
+```
 This will print "apple".
 
 You can also access items from the end of the list using negative indexing. The last item in the list has an index of -1, the second to last item has an index of -2, and so on. For example, to access the last item in the fruits list above, you would use the following code:
@@ -29,7 +29,7 @@ You can also access items from the end of the list using negative indexing. The 
 ```
 last_fruit = fruits[-1]
 print(last_fruit)
-````
+```
 
 This will print "orange".
 
@@ -38,47 +38,47 @@ Lists are mutable, which means that you can change the values of individual item
 
 ```
 fruits[1] = "pear"
-````
+```
 Now the fruits list would look like this:
 
 ```
 fruits = ["apple", "pear", "orange"]
-````
+```
 
 Adding and Removing List Items:
 You can add items to the end of a list using the append() method. For example, to add "kiwi" to the fruits list, you would use the following code:
 
 ```
 fruits.append("kiwi")
-````
+```
 Now the fruits list would look like this:
 
 ```
 fruits = ["apple", "pear", "orange", "kiwi"]
-````
+```
 
 You can also insert items into a specific position in the list using the insert() method. For example, to insert "grape" at the second position in the fruits list, you would use the following code:
 
 ```
 fruits.insert(1, "grape")
-````
+```
 
 Now the fruits list would look like this:
 
 ```
 fruits = ["apple", "grape", "pear", "orange", "kiwi"]
-````
+```
 To remove an item from a list, you can use the remove() method. For example, to remove "pear" from the fruits list, you would use the following code:
 
 ```
 fruits.remove("pear")
-````
+```
 
 Now the fruits list would look like this:
 
 ```
 fruits = ["apple", "grape", "orange", "kiwi"]
-````
+```
 
 Lists are a powerful tool for organizing and working with data in Python. With their ability to store collections of related items, 
 as well as their built-in methods for adding, removing, and modifying items, lists are an essential data structure for any Python programmer. 
@@ -152,7 +152,7 @@ while True:
         break
     else:
         print("Invalid choice. Please try again.")
-
+'''
 When the user runs the application, they will be prompted to enter one of four choices: "add", "remove", "view", or "exit". If they choose "add", they will be prompted to enter an item to add to the list. If they choose "remove", they will be prompted to enter an item to remove from the list. If they choose "view", the items on the list will be displayed. If they choose "exit", the application will exit.
 
 This simple to-do list application demonstrates the power of Python's built-in data structures and control structures, and provides a great starting point for anyone looking to learn more about the language.
