@@ -1,0 +1,2 @@
+# Python-in-a-Month-A-Step-by-Step-Guide-to-Mastering-the-Language
+Python in a Month is a 30-day guide to learning Python for data science, web development, and more. Covering basic to advanced topics, the course includes exercises and a final project to solidify concepts. Whether new to programming or experienced, Python in a Month is the perfect way to start your journey into the world of Python.
