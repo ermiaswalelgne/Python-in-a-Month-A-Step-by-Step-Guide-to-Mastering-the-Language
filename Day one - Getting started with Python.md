@@ -11,6 +11,7 @@ To begin, you will need to install Python on your computer. Python can be downlo
 <li>Run the installer and follow the prompts to complete the installation.</li>
 <li>To verify the installation, open the Terminal application and type python3 --version and press Enter. This should output the version of Python that you just installed.</li>
  </ol>
+ 
 ##### With a Virtual Environment:
 <ol> 
 <li>Open the Terminal application and type python3 --version and press Enter. If Python is not installed, follow the steps above to install it.</li>
@@ -20,7 +21,8 @@ To begin, you will need to install Python on your computer. Python can be downlo
 <li>Type virtualenv venv and press Enter. This will create a virtual environment in the "venv" directory.</li>
 <li>Type source venv/bin/activate and press Enter. This will activate the virtual environment.</li>
 <li>Type pip install package-name to install packages inside the virtual environment.</li>
- </ol>
+</ol>
+
 ### Installing Python on Windows:
 ##### Without a Virtual Environment:
 <ol> 
