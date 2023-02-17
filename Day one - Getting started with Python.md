@@ -1,4 +1,5 @@
-# Welcome to Day 1 of the 30-day Python course! Today, we will cover the basics of Python programming, including installation and setup, and writing your first Python program.
+# Welcome to Day 1 of the 30-day Python course! 
+Today, we will cover the basics of Python programming, including installation and setup, and writing your first Python program.
 
 ## Installation and Setup:
 To begin, you will need to install Python on your computer. Python can be downloaded for free from the official Python website (https://www.python.org/downloads/). Once you have installed Python, you can start writing and running Python programs using a text editor or an integrated development environment (IDE). Some popular choices for Python IDEs include PyCharm, Visual Studio Code, and Spyder.
