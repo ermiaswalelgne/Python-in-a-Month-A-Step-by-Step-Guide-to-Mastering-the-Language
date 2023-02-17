@@ -5,54 +5,54 @@ Today, we will cover the basics of Python programming, including installation an
 To begin, you will need to install Python on your computer. Python can be downloaded for free from the official Python website (https://www.python.org/downloads/). Once you have installed Python, you can start writing and running Python programs using a text editor or an integrated development environment (IDE). Some popular choices for Python IDEs include PyCharm, Visual Studio Code, and Spyder.
 ### Installing Python on Mac:
 ##### Without a Virtual Environment:
-<li> 
-<ol>Open a web browser and navigate to the official Python website: https://www.python.org/downloads/mac-osx/ </ol>
-<ol>Download the latest version of Python for Mac by clicking on the "Download Python X.X.X" button.</ol>
-<ol>Run the installer and follow the prompts to complete the installation.</ol>
-<ol>To verify the installation, open the Terminal application and type python3 --version and press Enter. This should output the version of Python that you just installed.</ol>
- </li>
+<ol> 
+<li>Open a web browser and navigate to the official Python website: https://www.python.org/downloads/mac-osx/ </li>
+<li>Download the latest version of Python for Mac by clicking on the "Download Python X.X.X" button.</li>
+<li>Run the installer and follow the prompts to complete the installation.</li>
+<li>To verify the installation, open the Terminal application and type python3 --version and press Enter. This should output the version of Python that you just installed.</li>
+ </ol>
 ##### With a Virtual Environment:
-<li> 
-<ol>Open the Terminal application and type python3 --version and press Enter. If Python is not installed, follow the steps above to install it.</ol>
-<ol>Type pip3 install virtualenv and press Enter. This will install virtualenv, which is a tool to create virtual environments.</ol>
-<ol>Type mkdir myproject and press Enter. This will create a directory for your project.</ol>
-<ol>Type cd myproject and press Enter. This will change your working directory to the project directory.</ol>
-<ol>Type virtualenv venv and press Enter. This will create a virtual environment in the "venv" directory.</ol>
-<ol>Type source venv/bin/activate and press Enter. This will activate the virtual environment.</ol>
-<ol>Type pip install package-name to install packages inside the virtual environment.</ol>
- </li>
+<ol> 
+<li>Open the Terminal application and type python3 --version and press Enter. If Python is not installed, follow the steps above to install it.</li>
+<li>Type pip3 install virtualenv and press Enter. This will install virtualenv, which is a tool to create virtual environments.</li>
+<li>Type mkdir myproject and press Enter. This will create a directory for your project.</li>
+<li>Type cd myproject and press Enter. This will change your working directory to the project directory.</li>
+<li>Type virtualenv venv and press Enter. This will create a virtual environment in the "venv" directory.</li>
+<li>Type source venv/bin/activate and press Enter. This will activate the virtual environment.</li>
+<li>Type pip install package-name to install packages inside the virtual environment.</li>
+ </ol>
 ### Installing Python on Windows:
 ##### Without a Virtual Environment:
-<li> 
-<ol>Open a web browser and navigate to the official Python website: https://www.python.org/downloads/windows/</ol>
-<ol>Download the latest version of Python for Windows by clicking on the "Download Python X.X.X" button.</ol>
-<ol>Run the installer and follow the prompts to complete the installation.</ol>
-<ol>To verify the installation, open the Command Prompt and type python --version and press Enter. This should output the version of Python that you just installed.</ol>
-</li>
+<ol> 
+<li>Open a web browser and navigate to the official Python website: https://www.python.org/downloads/windows/</li>
+<li>Download the latest version of Python for Windows by clicking on the "Download Python X.X.X" button.</li>
+<li>Run the installer and follow the prompts to complete the installation.</li>
+<li>To verify the installation, open the Command Prompt and type python --version and press Enter. This should output the version of Python that you just installed.</li>
+</ol>
 
 ##### With a Virtual Environment:
-<li>
-<ol>Open the Command Prompt and type python --version and press Enter. If Python is not installed, follow the steps above to install it.</ol>
-<ol>Type pip install virtualenv and press Enter. This will install virtualenv, which is a tool to create virtual environments.</ol>
-<ol>Type mkdir myproject and press Enter. This will create a directory for your project.</ol>
-<ol>Type cd myproject and press Enter. This will change your working directory to the project directory.</ol>
-<ol>Type virtualenv venv and press Enter. This will create a virtual environment in the "venv" directory.</ol>
-<ol>Type venv\Scripts\activate and press Enter. This will activate the virtual environment.</ol>
-<ol>Type pip install package-name to install packages inside the virtual environment.</ol>
-</li>
+<ol>
+<li>Open the Command Prompt and type python --version and press Enter. If Python is not installed, follow the steps above to install it.</li>
+<li>Type pip install virtualenv and press Enter. This will install virtualenv, which is a tool to create virtual environments.</li>
+<li>Type mkdir myproject and press Enter. This will create a directory for your project.</li>
+<li>Type cd myproject and press Enter. This will change your working directory to the project directory.</li>
+<li>Type virtualenv venv and press Enter. This will create a virtual environment in the "venv" directory.</li>
+<li>Type venv\Scripts\activate and press Enter. This will activate the virtual environment.</li>
+<li>Type pip install package-name to install packages inside the virtual environment.</li>
+</ol>
 
 ### Using Visual Studio Code:
 Once Python is installed, you can use Visual Studio Code as your code editor. Here are the steps to set it up:
 
-<li>
-<ol>Download and install Visual Studio Code from the official website: https://code.visualstudio.com/</ol>
-<ol>Open Visual Studio Code.</ol>
-<ol>Open the Command Palette by pressing Ctrl+Shift+P (Windows) or Cmd+Shift+P (Mac).</ol>
-<ol>Type "Python: Select Interpreter" and press Enter.</ol>
-<ol>Choose the interpreter for your project (either the global Python installation or the virtual environment you created).</ol>
-<ol>To create a new Python file, click on "File" > "New File" and save it with a .py extension.</ol>
-<ol>Start coding in Python!</ol>
-</li>
+<ol>
+<li>Download and install Visual Studio Code from the official website: https://code.visualstudio.com/</li>
+<li>Open Visual Studio Code.</li>
+<li>Open the Command Palette by pressing Ctrl+Shift+P (Windows) or Cmd+Shift+P (Mac).</li>
+<li>Type "Python: Select Interpreter" and press Enter.</li>
+<li>Choose the interpreter for your project (either the global Python installation or the virtual environment you created).</li>
+<li>To create a new Python file, click on "File" > "New File" and save it with a .py extension.</li>
+<li>Start coding in Python!</li>
+</ol>
 That's it! You now have Python installed on your computer and Visual Studio Code
 
 
