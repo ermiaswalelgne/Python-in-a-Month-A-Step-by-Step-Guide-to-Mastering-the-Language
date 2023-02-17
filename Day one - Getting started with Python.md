@@ -10,7 +10,6 @@ The "Hello World" program is a classic first program for learning any programmin
 Open your text editor or IDE and create a new file. Type the following code:
 
 ```
-python
 print("Hello, World!")
 ```
 
