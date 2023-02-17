@@ -59,9 +59,8 @@ That's it! You now have Python installed on your computer and Visual Studio Code
 
 
 
+<hr>
 
-
-<br>
 ## Hello World Program:
 The "Hello World" program is a classic first program for learning any programming language. It simply prints the text "Hello, World!" to the screen. Let's write our own "Hello World" program in Python!
 
