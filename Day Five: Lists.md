@@ -1,4 +1,4 @@
-###### ||[Home](https://github.com/ermiaswalelgne/Python-in-a-Month-A-Step-by-Step-Guide-to-Mastering-the-Language)➤➤
+###### ➤➤[Home||](https://github.com/ermiaswalelgne/Python-in-a-Month-A-Step-by-Step-Guide-to-Mastering-the-Language)
 
 # Welcome to Day 5 of the 30-day Python course! Today, we will cover lists in Python.
 
