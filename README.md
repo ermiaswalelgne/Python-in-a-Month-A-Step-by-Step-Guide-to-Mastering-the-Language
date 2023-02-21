@@ -10,23 +10,8 @@ Whether you're new to programming or an experienced developer, Python in a Month
 [Day Four](https://github.com/ermiaswalelgne/Python-in-a-Month-A-Step-by-Step-Guide-to-Mastering-the-Language/blob/main/Day%20Four:%20Loop.md)
 [Day Five](https://github.com/ermiaswalelgne/Python-in-a-Month-A-Step-by-Step-Guide-to-Mastering-the-Language/blob/main/Day%20Five:%20Lists.md)
 
-[![Day one](https://github.com/ermiaswalelgne/Python-in-a-Month-A-Step-by-Step-Guide-to-Mastering-the-Language/blob/main/img/next.png)](https://github.com/ermiaswalelgne/Python-in-a-Month-A-Step-by-Step-Guide-to-Mastering-the-Language/blob/main/Day%20one%20-%20Getting%20started%20with%20Python.md)
 
-<br>
-<br>
-    
-# Buttons
-         
-**Links  ➞  Buttons**
-
-<br>
-<br>
-
-[<kbd> <br> KeyBinding Button <br> </kbd>][KBD]
-
-[![Button Shield]][Shield]
-
-</div>
-
-<br>
-<br>
+> :Buttons
+> > :Button label=GitHub, url=https://github.com
+>
+> > :Button label=NPM, url=https://npmjs.org
