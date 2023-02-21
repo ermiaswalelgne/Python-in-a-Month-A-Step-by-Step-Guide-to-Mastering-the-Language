@@ -10,5 +10,5 @@ Whether you're new to programming or an experienced developer, Python in a Month
 [Day Four](https://github.com/ermiaswalelgne/Python-in-a-Month-A-Step-by-Step-Guide-to-Mastering-the-Language/blob/main/Day%20Four:%20Loop.md)
 [Day Five](https://github.com/ermiaswalelgne/Python-in-a-Month-A-Step-by-Step-Guide-to-Mastering-the-Language/blob/main/Day%20Five:%20Lists.md)
 
-<button onclick="window.location.href='https://bing.com';">Click</button>
+[![Button Text](Button Image URL)](URL)
 
