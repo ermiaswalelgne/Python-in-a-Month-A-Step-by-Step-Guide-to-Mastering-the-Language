@@ -9,5 +9,6 @@ Whether you're new to programming or an experienced developer, Python in a Month
 [Day Three](https://github.com/ermiaswalelgne/Python-in-a-Month-A-Step-by-Step-Guide-to-Mastering-the-Language/blob/main/Day%20Three:%20Conditional%20Statements.md)
 [Day Four](https://github.com/ermiaswalelgne/Python-in-a-Month-A-Step-by-Step-Guide-to-Mastering-the-Language/blob/main/Day%20Four:%20Loop.md)
 [Day Five](https://github.com/ermiaswalelgne/Python-in-a-Month-A-Step-by-Step-Guide-to-Mastering-the-Language/blob/main/Day%20Five:%20Lists.md)
-<a href="#" class="btn--success">Success Button</a>
+
+<button onclick="window.location.href='https://bing.com';">Click</button>
 
