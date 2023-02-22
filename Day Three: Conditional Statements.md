@@ -1,7 +1,8 @@
 
 ###### ➤➤[Home||](https://github.com/ermiaswalelgne/Python-in-a-Month-A-Step-by-Step-Guide-to-Mastering-the-Language)
 
-# Welcome to Day 3 of the 30-day Python course! Today, we will cover conditional statements and control flow in Python.
+# Welcome to Day 3 of the 30-day Python course! 
+Today, we will cover conditional statements and control flow in Python.
 
 ## Conditional Statements:
 Conditional statements are used to execute different blocks of code depending on a given condition. In Python, the most common conditional statements are the "if" statement and the "if-else" statement.
