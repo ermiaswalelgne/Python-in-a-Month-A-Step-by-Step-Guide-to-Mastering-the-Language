@@ -1,6 +1,7 @@
 ###### ➤➤[Home||](https://github.com/ermiaswalelgne/Python-in-a-Month-A-Step-by-Step-Guide-to-Mastering-the-Language)
 
-# Welcome to Day 5 of the 30-day Python course! Today, we will cover lists in Python.
+# Welcome to Day 5 of the 30-day Python course! 
+Today, we will cover lists in Python.
 
 ## Lists:
 A list is a collection of items that are ordered and changeable. Lists are one of the most commonly used data structures in Python, and are used to store collections of related items.
