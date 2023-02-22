@@ -1,4 +1,5 @@
-# Welcome to Day 2 of the 30-day Python course! Today, we will cover variables and operators in Python.
+# Welcome to Day 2 of the 30-day Python course! 
+Today, we will cover variables and operators in Python.
 
 ## Variables:
 A variable is a name that represents a value. In Python, you can create a variable by simply assigning a value to a name. For example:
