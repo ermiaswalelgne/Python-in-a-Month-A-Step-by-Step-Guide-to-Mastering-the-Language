@@ -1,3 +1,5 @@
+###### ➤➤[Home||](https://github.com/ermiaswalelgne/Python-in-a-Month-A-Step-by-Step-Guide-to-Mastering-the-Language)
+
 # Welcome to Day 2 of the 30-day Python course! 
 Today, we will cover variables and operators in Python.
 
@@ -59,3 +61,4 @@ print(x * 3) # output: "HelloHelloHello"
 Variables and operators are fundamental building blocks of any programming language, and Python is no exception. With these tools in your toolbox, you can start to write more complex and interesting programs. Stay tuned for Day 3, where we will cover conditional statements and control flow in Python.
 
 
+###### ➤➤[Home||](https://github.com/ermiaswalelgne/Python-in-a-Month-A-Step-by-Step-Guide-to-Mastering-the-Language)
