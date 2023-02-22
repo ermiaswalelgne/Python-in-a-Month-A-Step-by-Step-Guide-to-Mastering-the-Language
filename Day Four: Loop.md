@@ -1,3 +1,5 @@
+###### ⬅[Home||](https://github.com/ermiaswalelgne/Python-in-a-Month-A-Step-by-Step-Guide-to-Mastering-the-Language)
+
 # Welcome to Day 4 of the 30-day Python course! Today, we will cover loops in Python.
 
 ## Loops:
@@ -76,3 +78,4 @@ This will print out the even numbers 2 and 4.
 Loops are an essential tool for any programmer, and can help you solve many different types of problems. 
 With for loops and while loops, as well as loop control statements like break and continue, you can start to write more complex and interesting programs. Stay tuned for Day 5, where we will cover List in Python.
 
+###### ⬅[Home||](https://github.com/ermiaswalelgne/Python-in-a-Month-A-Step-by-Step-Guide-to-Mastering-the-Language)
