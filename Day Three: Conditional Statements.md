@@ -1,4 +1,6 @@
 
+###### ➤➤[Home||](https://github.com/ermiaswalelgne/Python-in-a-Month-A-Step-by-Step-Guide-to-Mastering-the-Language)
+
 # Welcome to Day 3 of the 30-day Python course! Today, we will cover conditional statements and control flow in Python.
 
 ## Conditional Statements:
@@ -47,3 +49,6 @@ while x < 5:
 In this example, the while loop repeats the block of code inside it as long as the condition "x < 5" is true. Each time through the loop, the value of x is incremented by 1, until x is equal to 5.
 
 Conditional statements and control flow are essential concepts in programming, and are used in virtually every Python program. With these tools at your disposal, you can start to write more complex and interesting programs. Stay tuned for Day 4, where we will cover functions in Python.
+
+###### ➤➤[Home||](https://github.com/ermiaswalelgne/Python-in-a-Month-A-Step-by-Step-Guide-to-Mastering-the-Language)
+
