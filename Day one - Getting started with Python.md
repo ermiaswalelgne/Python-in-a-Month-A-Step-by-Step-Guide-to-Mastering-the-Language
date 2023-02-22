@@ -1,3 +1,5 @@
+###### ⬅[Home||](https://github.com/ermiaswalelgne/Python-in-a-Month-A-Step-by-Step-Guide-to-Mastering-the-Language)
+
 # Welcome to Day 1 of the 30-day Python course! 
 Today, we will cover the basics of Python programming, including installation and setup, and writing your first Python program.
 
@@ -97,3 +99,5 @@ print(type(3.14)) # output: <class 'float'>
 print(type(True)) # output: <class 'bool'>
 ```
 Congratulations, you have now written your first Python program and learned about some of the basic data types in Python. Stay tuned for Day 2, where we will cover variables and operators in more detail.
+
+###### ⬅[Home||](https://github.com/ermiaswalelgne/Python-in-a-Month-A-Step-by-Step-Guide-to-Mastering-the-Language)
