@@ -9,7 +9,7 @@ Conditional statements are used to execute different blocks of code depending on
 
 The "if" statement is used to execute a block of code only if a given condition is true. For example:
 
-```
+```python
 x = 10
 if x > 5:
     print("x is greater than 5")
@@ -18,7 +18,7 @@ In this example, the condition "x > 5" is true, so the block of code inside the 
 
 The "if-else" statement is used to execute one block of code if a condition is true, and another block of code if the condition is false. For example:
 
-```
+```python
 x = 3
 if x > 5:
     print("x is greater than 5")
@@ -33,7 +33,7 @@ Control flow refers to the order in which the statements in a program are execut
 Loops are used to repeat a block of code a certain number of times or until a given condition is met. The two most common types of loops in Python are the "for" loop and the "while" loop.
 
 The "for" loop is used to iterate over a sequence of values, such as a list or a string. For example:
-```
+```python
 for i in [1, 2, 3, 4, 5]:
     print(i)
 ```
@@ -41,7 +41,7 @@ In this example, the for loop iterates over the sequence [1, 2, 3, 4, 5] and pri
 
 The "while" loop is used to repeat a block of code until a given condition is false. For example:
 
-```
+```python
 x = 0
 while x < 5:
     print(x)
