@@ -92,7 +92,7 @@ Booleans are true/false values. They are represented by the keywords "True" and 
 
 In Python, you can use the "type" function to determine the data type of a value. For example:
 
-```
+```python
 print(type("Hello, World!")) # output: <class 'str'>
 print(type(42)) # output: <class 'int'>
 print(type(3.14)) # output: <class 'float'>
