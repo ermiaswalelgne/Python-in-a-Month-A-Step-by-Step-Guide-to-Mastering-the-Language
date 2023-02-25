@@ -9,19 +9,19 @@ A list is a collection of items that are ordered and changeable. Lists are one o
 ## Creating a List:
 To create a list in Python, you simply enclose the items in square brackets, separated by commas. For example, here is a list of integers:
 
-```
+```python
 numbers = [1, 2, 3, 4, 5]
 ````
 You can also create a list of strings:
 
-```
+```python
 fruits = ["apple", "banana", "orange"]
 ```
 
 ## Accessing List Items:
 You can access individual items in a list using their index. The index of a list starts at 0, so the first item in the list has an index of 0, the second item has an index of 1, and so on. For example, to access the first item in the fruits list above, you would use the following code:
 
-```
+```python
 first_fruit = fruits[0]
 print(first_fruit)
 ```
@@ -29,7 +29,7 @@ This will print "apple".
 
 You can also access items from the end of the list using negative indexing. The last item in the list has an index of -1, the second to last item has an index of -2, and so on. For example, to access the last item in the fruits list above, you would use the following code:
 
-```
+```python
 last_fruit = fruits[-1]
 print(last_fruit)
 ```
@@ -39,47 +39,47 @@ This will print "orange".
 ## Changing List Items:
 Lists are mutable, which means that you can change the values of individual items in a list. For example, to change the second item in the fruits list to "pear", you would use the following code:
 
-```
+```python
 fruits[1] = "pear"
 ```
 Now the fruits list would look like this:
 
-```
+```python
 fruits = ["apple", "pear", "orange"]
 ```
 
 Adding and Removing List Items:
 You can add items to the end of a list using the append() method. For example, to add "kiwi" to the fruits list, you would use the following code:
 
-```
+```python
 fruits.append("kiwi")
 ```
 Now the fruits list would look like this:
 
-```
+```python
 fruits = ["apple", "pear", "orange", "kiwi"]
 ```
 
 You can also insert items into a specific position in the list using the insert() method. For example, to insert "grape" at the second position in the fruits list, you would use the following code:
 
-```
+```python
 fruits.insert(1, "grape")
 ```
 
 Now the fruits list would look like this:
 
-```
+```python
 fruits = ["apple", "grape", "pear", "orange", "kiwi"]
 ```
 To remove an item from a list, you can use the remove() method. For example, to remove "pear" from the fruits list, you would use the following code:
 
-```
+```python
 fruits.remove("pear")
 ```
 
 Now the fruits list would look like this:
 
-```
+```python
 fruits = ["apple", "grape", "orange", "kiwi"]
 ```
 
@@ -114,7 +114,7 @@ We will use Python lists to store the to-do list items.
 
 Here is the code for our simple to-do list application:
 
-```
+```python
 # initialize an empty list to store the to-do list items
 todo_list = []
 
@@ -173,7 +173,7 @@ The game will generate a random number between 1 and 20, and the user will have 
 #### Hint use the follwing code as a start point 
 * Note import  random package and use randinit(1, 20) funcion to randomly generate number from 1 to 20
 
-```
+```python
 import random
 
 print("Welcome to the Guess the Number Game!")
@@ -190,7 +190,7 @@ while guesses_left > 0:
 
 Here is the solution to the Guess the Number Game, incorporating the concepts from Day 1 to Day 5.
 
-```
+```python
 import random
 
 print("Welcome to the Guess the Number Game!")
